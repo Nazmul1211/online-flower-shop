@@ -173,6 +173,36 @@ body {
     justify-content: center;
 }
 
+/* summer sale style */
+.online-sale{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 150px 230px 0 230px;
+    gap: 20px;
+    border-radius: 8px;
+    border: 0;
+    background: #f8ccfc;
+}
+.sold-flower-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 100px 0px 40px 100px;
+}
+.sold-flower-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 60px;
+    padding: 0px 0px 40px 100px;
+}
+
+#img-of-rose{
+    border-radius: 300px 300px 300px 300px;
+    padding: 50px 100px;
+}
+
 /* email style  */
 .email-box {
     background-image: url('../images/Rectangle\ 9.png');
