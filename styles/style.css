@@ -16,8 +16,10 @@ body {
     padding: 197px 0px 150px 240px;
 }
 
-.header-flower{
+.header-flower  img{
     padding: 50px 240px 0px 0px;
+    position: relative; */
+    bottom: -15px;
 }
 
 
