@@ -182,7 +182,47 @@ body {
     font-weight: 400;
     margin-bottom: 60px;
 }
-.instagram-image{
+
+.instagram-image {
     display: flex;
     gap: 20px;
+}
+
+/* email style  */
+.email-box {
+    background-image: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: 130px 240px;
+    text-align: center;
+}
+
+.eamil-box-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+}
+
+.email-box-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.email {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 122px;
+    gap: 10px;
+}
+
+.form {
+    width: 700px;
+    height: 64px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
 }
